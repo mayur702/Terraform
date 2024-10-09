@@ -72,4 +72,19 @@ Terraform apply command
 $terraform apply --auto-approve
 
 Terraform create resource destroy command
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $terraform destroy --auto-approve
