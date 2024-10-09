@@ -4,19 +4,19 @@ export AWS_ACCESS_KEY_ID=*
 export AWS_SECRET_ACCESS_KEY=*
 
 open git bash terminal
-source.env
+$source.env
 
 Terraform install on folder
-terraform init
+$terraform init
 
 Terraform Validate code command
-teeraform validate
+$teeraform validate
 
 Terraform plan command
-terraform plan
+$terraform plan
 
 Terraform apply command
-terraform apply --auto-approve
+$terraform apply --auto-approve
 
 Terraform create resource destroy command
-terraform destroy --auto-approve
+$terraform destroy --auto-approve
