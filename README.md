@@ -7,6 +7,9 @@ open git bash terminal
 $source.env
 
 Terraform install on folder
+
+
+
 $terraform init
 
 Terraform Validate code command
